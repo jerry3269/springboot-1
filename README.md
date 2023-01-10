@@ -1,4 +1,4 @@
-# springboot-1
+# springboot
 
 https://start.spring.io/
 로 이동하여 
